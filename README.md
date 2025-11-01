@@ -1,1 +1,1 @@
-# -s-Cinayetleri-Dashboard-PowerBI
+# İs-Cinayetleri-Dashboard-PowerBI
