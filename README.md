@@ -1,3 +1,3 @@
 # İs-Cinayetleri-Dashboard-PowerBI
 
-![Uploading Ekran görüntüsü 2025-11-01 144755.png…]()
+![Power BI İş Cinayetleri Raporu](images/Ekran_goruntusu_2025-11-01_144755.png)
